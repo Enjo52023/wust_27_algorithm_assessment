@@ -1,0 +1,3 @@
+/home/yqynb233/study/homework/wust_27_algorithm_assessment-main (正式)/27exam/TASK5/build/CMakeFiles/task5.dir
+/home/yqynb233/study/homework/wust_27_algorithm_assessment-main (正式)/27exam/TASK5/build/CMakeFiles/edit_cache.dir
+/home/yqynb233/study/homework/wust_27_algorithm_assessment-main (正式)/27exam/TASK5/build/CMakeFiles/rebuild_cache.dir

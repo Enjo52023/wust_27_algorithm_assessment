@@ -1,0 +1,3 @@
+/home/yqynb233/study/notes/wust_27_algorithm_assessment-main/27exam/TASK2/build/CMakeFiles/app.dir
+/home/yqynb233/study/notes/wust_27_algorithm_assessment-main/27exam/TASK2/build/CMakeFiles/edit_cache.dir
+/home/yqynb233/study/notes/wust_27_algorithm_assessment-main/27exam/TASK2/build/CMakeFiles/rebuild_cache.dir
